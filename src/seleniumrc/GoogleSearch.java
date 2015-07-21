@@ -2,6 +2,10 @@ package seleniumrc;
 
 import com.thoughtworks.selenium.DefaultSelenium;
 
+// A comment
+
+
+
 public class GoogleSearch {
 
 	public static void main(String[] args) {
